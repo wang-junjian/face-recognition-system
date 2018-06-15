@@ -1,0 +1,7 @@
+arguments: align/align_dataset_mtcnn.py images_align_mtcnn face_images --detect_multiple_faces True
+--------------------
+tensorflow version: 1.4.0
+--------------------
+git hash: b'708925d0c7c24fe649a3509ec8b8f8fd67c43b4f'
+--------------------
+b''
