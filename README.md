@@ -1,4 +1,4 @@
-# Face Recognition System
+# Face Recognition System(人脸识别系统)
 
 > 基于 [facenet](https://github.com/davidsandberg/facenet) 做的人脸识别系统
 
